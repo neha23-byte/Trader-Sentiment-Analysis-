@@ -1,0 +1,4 @@
+sentiment_simple,mean_daily_pnl,median_daily_pnl,mean_win_rate,mean_drawdown_proxy,n_account_days
+Fear,9385.312,142.992,0.892,0.002,307
+Greed,5372.37,238.326,0.873,0.001,601
+Neutral,6511.879,251.605,0.881,0.003,175

@@ -1,0 +1,4 @@
+sentiment_simple,mean_trades_per_acct_day,mean_trade_size_usd,mean_long_short_ratio
+Fear,106.433,8973.394,1.645
+Greed,50.368,9114.038,0.479
+Neutral,90.6,9555.298,1.567
